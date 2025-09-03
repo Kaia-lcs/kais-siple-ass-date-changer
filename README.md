@@ -1,6 +1,6 @@
 # kais-siple-ass-date-changer
 
-Got it 👍 — Got it. You don’t wanna waste time like I did.
+Got it 👍 — You don’t wanna waste time like I did.
 Looking for a tool just to change the date? Here’s the easiest solution.
 The simplest program ever. Only made to change the date on your image.
 Please credit if shared or link the GitHub page.
