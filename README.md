@@ -1,9 +1,9 @@
 # kais-siple-ass-date-changer
 
-Got it 👍 — you don’t want me to paste your code again, you want a **GitHub-style project page text (README.md)** that describes your program like a real repo.
-
-Here’s a complete example you can drop into a `README.md` file for your project:
-
+Got it 👍 — Got it. You don’t wanna waste time like I did.
+Looking for a tool just to change the date? Here’s the easiest solution.
+The simplest program ever. Only made to change the date on your image.
+Please credit if shared or link the GitHub page.
 ---
 
 # 🖼️ Modern Image Date Changer
