@@ -54,7 +54,7 @@ git clone https://github.com/Kaia-lcs/kais-siple-ass-date-changer
 Run the app with:
 
 ```bash
-python main.py
+img date editor.exe
 ```
 
 1. Click **Select Image**
