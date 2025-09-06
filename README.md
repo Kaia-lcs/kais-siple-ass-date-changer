@@ -89,4 +89,3 @@ MIT License.
 
 ---
 
-👉 Do you want me to also create the `requirements.txt` and `.gitignore` contents for you so the repo feels fully polished?
